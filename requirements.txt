@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+sentence-transformers
+plotly
+gradio
+pytest
+pytest-cov
+ruff
+openai
+python-dotenv
